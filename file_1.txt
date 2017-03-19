@@ -1,1 +1,1 @@
-master branch file
+master and seo_title branch merged
